@@ -1,0 +1,130 @@
+
+.square1 {
+  background-color: #16697a;
+  color: white;
+  float: left;
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 18px;
+  height: 120px;
+  text-align: center;
+  width: 260px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+
+.square2 {
+  background-color: #ede7e3;
+  color: black;
+  float: left;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  height: 120px;
+  text-align: center;
+  width: 270px;
+}
+
+.square3 {
+  background-color: #97d8c4;
+  color: black;
+  clear: left;
+  float: left;
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
+  height: 120px;
+  text-align: center;
+  width: 540px;
+}
+
+
+.square4 {
+  background-color: #ede7e3;
+  clear: left;
+  float: left;
+  font-family: 'Sanchez', serif;
+  font-size: 18px;
+  height: 120px;
+  text-align: center;
+  width: 270px;
+}
+
+.square5 {
+  background-color: #f4b942;
+  float: left;
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 19px;
+  height: 120px;
+  text-align: center;
+  width: 260px;
+  padding-left: 5px;
+  padding-right: 5px;
+
+}
+
+.square6 {
+  background-color: #82c0cc;
+  clear: left;
+  color: white;
+  float: left;
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 20px;
+  height: 120px;
+  width: 530px;
+  text-align: center;
+  padding-right: 5px;
+  padding-left: 5px;
+
+}
+
+.square7 {
+  background-color: #489fb5;
+  color: white;
+  clear: left;
+  float: left;
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
+  height: 120px;
+  width: 270px;
+  text-align: center;
+}
+
+.square8 {
+  background-color: #97d8c4;
+  float: left;
+  width: 270px;
+  height: 120px;
+  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+
+}
+
+.square9 {
+  background-color: #f4b942;
+  float: left;
+  clear: left;
+  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+  width: 540px;
+  text-align: center;
+  height: 120px;
+
+}
+
+.square10 {
+  background-color: #16697a;
+  color: white;
+  float: left;
+  clear: left;
+  font-family: 'Sanchez', serif;
+  font-size: 25px;
+  text-align: center;
+  height: 120px;
+  width: 530px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+span {
+  font-weight: bold;
+}
