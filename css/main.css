@@ -1,4 +1,9 @@
-
+#container {
+  border: 5px solid gray;
+  width: 540px;
+  height: 840px;
+  padding: 5px;
+}
 .square1 {
   background-color: #16697a;
   color: white;
