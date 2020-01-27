@@ -24,8 +24,9 @@
   float: left;
   font-family: 'Quicksand', sans-serif;
   font-size: 20px;
-  height: 120px;
+  height: 110px;
   text-align: center;
+  padding-top: 10px;
   width: 270px;
 }
 
@@ -73,9 +74,10 @@
   float: left;
   font-family: 'Ibarra Real Nova', serif;
   font-size: 20px;
-  height: 120px;
+  height: 110px;
   width: 530px;
   text-align: center;
+  padding-top: 10px;
   padding-right: 5px;
   padding-left: 5px;
 
@@ -97,10 +99,11 @@
   background-color: #97d8c4;
   float: left;
   width: 270px;
-  height: 120px;
+  height: 110px;
   font-size: 20px;
   font-family: 'Quicksand', sans-serif;
   text-align: center;
+  padding-top: 10px;
 
 }
 
@@ -112,7 +115,8 @@
   font-family: 'Quicksand', sans-serif;
   width: 540px;
   text-align: center;
-  height: 120px;
+  height: 110px;
+  padding-top: 10px;
 
 }
 
@@ -124,8 +128,9 @@
   font-family: 'Sanchez', serif;
   font-size: 25px;
   text-align: center;
-  height: 120px;
+  height: 110px;
   width: 530px;
+  padding-top: 10px;
   padding-left: 5px;
   padding-right: 5px;
 }
